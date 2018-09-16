@@ -1,0 +1,44 @@
+#colorDisplay{
+	padding-bottom:60%;
+	width: 50%;
+	margin: 10% auto 5%;
+	background: linear-gradient(to bottom, #ff66ff 0%, #990099 100%);
+}
+#textDisplay{
+	padding-bottom:60%;
+	width: 50%;
+	margin: 10% auto 5%;
+	text-align: center;
+}
+.container{
+	float:left;
+}
+body{
+	padding-left: 10%;
+}
+
+h1{
+	background-color: #efefef;
+}
+#inlineBlock{
+	background-color: white;
+	padding-bottom: 80%;
+}
+
+#inlineBlock, h1{
+	font-size: 36px;
+	padding:5%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+input[type="color" i] {
+	height: 62px;
+	width: 324px;
+	margin-right: 10%;
+	margin-left: 10%;
+	border: none;
+	background-color: transparent;
+	padding: 0;
+	border-radius: 1%;
+}
